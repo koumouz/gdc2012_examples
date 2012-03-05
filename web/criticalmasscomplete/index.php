@@ -1,8 +1,8 @@
 <?php
   require 'server/fb-php-sdk/facebook.php';
 
-  $app_id = '343598042347842';
-  $app_secret = '88300f2ad82f10bf1232f5c1958a2780';
+  $app_id = 'APP_ID';
+  $app_secret = 'APP_SECRET';
   $app_namespace = 'criticalmasscomplete';
   $app_url = 'http://apps.facebook.com/' . $app_namespace . '/';
   $scope = 'email,publish_actions';

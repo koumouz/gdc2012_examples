@@ -30,7 +30,7 @@
   <script src="http://code.jquery.com/jquery-1.5.min.js"></script>
 
 <script>
-  var appId = '343598042347842';
+  var appId = 'APP_ID';
   var uid;
 
   // Initialize the JS SDK
